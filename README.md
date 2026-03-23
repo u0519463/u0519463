@@ -8,7 +8,8 @@ transitioning PI Planning from in person to virtual and at large scale of over 1
 people. During her time working on the lean agile enterprise transformation and
 with an extra large program, her focus has been on leadership and effective
 communication with them to ensure they support the success of their
-organizations on Lean and Agile Journey.
+organizations on Lean and Agile Journey. Business analytics graduate student focused on machine learning, predictive modeling, and decision support.
+
 
 ## Featured Project
 ### Home Credit Default Risk
