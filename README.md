@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I’m Heidi Hatch
 
-<!--
-**u0519463/u0519463** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business analytics graduate student focused on machine learning, predictive modeling, and decision support.
 
-Here are some ideas to get you started:
+## Featured Project
+### Home Credit Default Risk
+Built a reproducible credit-risk modeling workflow using R, including data preparation, model comparison, XGBoost tuning, and a stakeholder-facing model card.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Highlights**
+- Tuned XGBoost outperformed baseline models
+- Kaggle public AUC: 0.76421
+- Included SHAP explainability and fairness checks
+- Documented the final model in a model card for non-technical stakeholders
+
+## Skills
+R, Python, XGBoost, caret, feature engineering, model evaluation, SHAP, GitHub
